@@ -1,6 +1,6 @@
 # CovidSurveyScript
 
-> Script wrote to fill out Stanford Student Athlete COVID scripts easier
+> Script wrote to fill out Stanford Student Athlete COVID surveys easier
 
 > Compiled into a function .app file
 
